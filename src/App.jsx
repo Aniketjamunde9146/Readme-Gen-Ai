@@ -238,6 +238,23 @@ Make it professional, well-formatted with proper Markdown syntax, and production
           {/* Mode Switcher */}
           {/* Input Section */}
           {/* Preview Section */}
+          <section className="seo-content">
+          <h2>AI README Generator for GitHub Projects</h2>
+          <p>
+            README Pro is an AI-powered README generator designed for developers
+            who want to create professional GitHub README.md files quickly.
+            Paste your GitHub repository or enter project details to generate
+            clean, production-ready documentation.
+          </p>
+
+          <h3>Why use README Pro?</h3>
+          <ul>
+            <li>Generate README.md instantly using AI</li>
+            <li>Supports GitHub repositories</li>
+            <li>Markdown preview with copy & download</li>
+            <li>Perfect for open-source and private projects</li>
+          </ul>
+        </section>
         </div>
       </>
     }
