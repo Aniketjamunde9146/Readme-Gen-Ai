@@ -188,7 +188,7 @@ Make it professional, well-formatted with proper Markdown syntax, and production
       <nav className="">
         <div className="navbar-container">
           <div className="navbar-logo">
-  <img src="/logo.png" alt="Logo" className="logo-icon" height={70} width={70} />
+  <img src="/logo.png" alt="A App Logo " className="logo-icon" height={70} width={70} />
   <span className="logo-text">
     
   </span>
@@ -239,7 +239,9 @@ Make it professional, well-formatted with proper Markdown syntax, and production
           {/* Input Section */}
           {/* Preview Section */}
           <section className="seo-content">
-          <h2>AI README Generator for GitHub Projects</h2>
+  <h1>AI README Generator for GitHub</h1>
+  <h2>Create Professional README.md Files Instantly</h2>
+
           <p>
             README Pro is an AI-powered README generator designed for developers
             who want to create professional GitHub README.md files quickly.
